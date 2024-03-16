@@ -1,2 +1,2 @@
-# frontEndProjects
+# frontendProjects
 Repo for frontend projects
